@@ -7,7 +7,9 @@
 
 <h2>📌 Project Overview</h2>
 
-<img src = "Screenshot (861).png"
+<p align="center">
+  <img src="images/Screenshot (861).png" alt="Amazon Sales Dashboard Screenshot" width="900">
+</p>
 
 <p>
   Built an interactive sales dashboard analyzing <b>128,000+ Amazon order records</b> 
