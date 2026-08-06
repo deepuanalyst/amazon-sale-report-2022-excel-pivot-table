@@ -8,7 +8,7 @@
 <h2>📌 Project Overview</h2>
 
 <p align="center">
-  <img src="images/Screenshot (861).png" alt="Amazon Sales Dashboard Screenshot" width="900">
+  <img src="amazon-sale-report-2022-excel-pivot-table/Screenshot (861).png" alt="Amazon Sales Dashboard Screenshot" width="900">
 </p>
 
 <p>
