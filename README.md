@@ -7,7 +7,9 @@
 
 <h2>📌 Project Overview</h2>
 
-<img src="amazon-sale-report-2022-excel-pivot-table/dashboard-screenshot.png" alt="Amazon Sales Dashboard Screenshot" width="900">
+<p align="center">
+  <img src="dashboard-screenshot.png" alt="Amazon Sales Dashboard Screenshot" width="900">
+</p> 
 
 <p>
   Built an interactive sales dashboard analyzing <b>128,000+ Amazon order records</b> 
