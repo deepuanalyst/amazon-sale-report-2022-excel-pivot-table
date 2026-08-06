@@ -6,6 +6,9 @@
 <hr>
 
 <h2>📌 Project Overview</h2>
+
+<img src = "Screenshot (861).png"
+
 <p>
   Built an interactive sales dashboard analyzing <b>128,000+ Amazon order records</b> 
   (March–June 2022). The project covers the full analytics workflow — from raw data 
